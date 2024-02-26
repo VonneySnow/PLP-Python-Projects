@@ -1,0 +1,1 @@
+This repository serves as a central hub for storing and showcasing my journey through the PLP (Python Learning Path) program. Here, you'll find a collection of Python projects that I've completed as part of the program, demonstrating my progress and proficiency in Python programming.
